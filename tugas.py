@@ -5,3 +5,6 @@ print(nama_depan)
 print("nama ku" + nama_depan) 
 
 
+
+
+
